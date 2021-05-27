@@ -32,10 +32,10 @@ Project is created with:
 Example screenshots showing the operation of the classical genetic algorithm:
 
 Example random population:<br>
-![Random population](/images/randomPopulation.png)
+![Random population](/images/randomPopulation.PNG)
 
 Fit function graph:<br>
-![Fit function graph](/images/fitFunction.png)
+![Fit function graph](/images/fitFunction.PNG)
 
 Graph of the relationship between the number of generations and the average value of fitness:<br>
 ![Graph](/images/graph.PNG)
