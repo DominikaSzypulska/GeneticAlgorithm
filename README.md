@@ -29,7 +29,7 @@ Project is created with:
 - Creating a graph of dependence between the number of the population (iteration) and the average value of fitness
 
 ## Screenshots
-Example screenshots showing the operation of the classical genetic algorithm:
+Example screenshots showing the operation of the classical genetic algorithm.
 
 Example random population:<br>
 ![Random population](/images/randomPopulation.png)
